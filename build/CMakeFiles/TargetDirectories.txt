@@ -1,0 +1,3 @@
+/home/miruizhi/learn/claude/build/CMakeFiles/screenshot_svc.dir
+/home/miruizhi/learn/claude/build/CMakeFiles/edit_cache.dir
+/home/miruizhi/learn/claude/build/CMakeFiles/rebuild_cache.dir

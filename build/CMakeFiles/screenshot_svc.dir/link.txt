@@ -1,0 +1,3 @@
+/usr/bin/cmake -E rm -f CMakeFiles/screenshot_svc.dir/objects.a
+/usr/bin/x86_64-w64-mingw32-ar qc CMakeFiles/screenshot_svc.dir/objects.a @CMakeFiles/screenshot_svc.dir/objects1.rsp
+/usr/bin/x86_64-w64-mingw32-g++ -mwindows -Wl,--subsystem,windows -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles/screenshot_svc.dir/objects.a -Wl,--no-whole-archive -o screenshot_svc.exe -Wl,--out-implib,libscreenshot_svc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/screenshot_svc.dir/linklibs.rsp
